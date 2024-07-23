@@ -1,6 +1,6 @@
 # Machine Learning Project Report - Nicolas Debrito
 
-## Project Domain
+## Project Overview
 
 In today's digital age, the concept of smart cities has become a key goal for many cities around the world. Smart cities integrate advanced technologies to improve the quality of life of their citizens, optimise the use of resources, and support sustainable development. One of the key elements of smart cities is the increasingly common use of smart devices, such as smartphones, tablets, laptops, and Internet of Things (IoT) devices. These devices are used in various sectors, from households to industries, to improve operational efficiency and provide better services to citizens.
 
